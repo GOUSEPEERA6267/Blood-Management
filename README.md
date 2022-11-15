@@ -1,5 +1,5 @@
 # Blood-Management
-I have made a static web app for Blodd Management system. In this webpage people can check the availability of the blood on the current day and get the price of the blood. Also they can conact us for the blood requrement and they can subscribe for newsletter to get updated about the bloods available .
+I have made a static web app for BloOd Management system. In this webpage people can check the availability of the blood on the current day and get the price of the blood. Also they can conact us for the blood requirement and they can subscribe for newsletter to get updated about the bloods available .
 I used HTML, CSS , AZURE STATIC WEB APP, AZURE STORAGE ACCOUNTS . 
 Used the storage accounts for storing the source in container.
 And used the web app service for hosting the website.
